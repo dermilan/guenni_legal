@@ -1,0 +1,24 @@
+# Site Settings
+title: Günni AI
+description: Legal documents for Günni AI - Your AI Gym Buddy
+url: "https://dermilan.github.io/guenni_legal"
+
+# Theme
+theme: jekyll-theme-minimal
+
+# Markdown Processor
+markdown: kramdown
+
+# Collections
+collections_dir: collections
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from Jekyll processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
