@@ -3,94 +3,52 @@ layout: default
 title: Terms of Service
 ---
 
-# Terms of Service
+# Terms of Service for Günni AI
 
-**Last Updated:** February 23, 2026
+**Last Updated: February 24, 2026**
+
+Please read these Terms of Service ("Terms") carefully before using the Günni AI mobile application ("App").
 
 ## 1. Acceptance of Terms
+By downloading or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
-By downloading, installing, or using Günni AI ("the App"), you agree to be bound by these Terms of Service. If you do not agree, do not use the App.
+## 2. Health and Fitness Disclaimer
+**Günni AI is for informational and motivational purposes only.** 
+- The App, including its AI Buddy features, does NOT provide medical advice, diagnosis, or treatment.
+- Always consult with a qualified healthcare professional before starting any new exercise program.
+- You assume all risks associated with any physical activity you undertake in connection with the App.
+- We are not responsible for any injuries or health problems you may experience as a result of using the App.
 
-## 2. Eligibility
+## 3. AI Buddy Features
+The App uses AI technology (provided by Rork AI) to generate workout suggestions and chat responses. 
+- AI-generated content may be inaccurate, incomplete, or inappropriate for your specific physical condition. 
+- You should exercise caution and use your own judgment when following any AI-generated workout plans.
 
-- You must be at least 13 years old to use Günni AI.
-- If you are under 18, parental or guardian consent is recommended.
+## 4. Subscriptions and Purchases
+Some features of the App require a paid subscription ("Pro").
+- Subscriptions are managed via **RevenueCat** and processed through the Apple App Store.
+- Payment will be charged to your Apple ID account at confirmation of purchase.
+- Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
+- You can manage and cancel your subscriptions in your App Store Account Settings.
 
-## 3. Use of the App
+## 5. User Conduct
+You agree not to:
+- Use the App for any illegal purpose.
+- Attempt to gain unauthorized access to any portion of the App.
+- Use the AI Buddy to generate offensive, harmful, or inappropriate content.
 
-- Günni AI is for personal, non-commercial fitness tracking and workout planning purposes.
-- You agree not to use Günni AI for unlawful, harmful, or prohibited purposes.
-- You may not attempt to hack, reverse-engineer, or modify the App.
-- You may not distribute the App without authorization.
+## 6. Intellectual Property
+All content, features, and functionality of the App (excluding user-provided data) are the exclusive property of AI Gym Buddy and its licensors.
 
-## 4. Account and Data
+## 7. Termination
+We reserve the right to terminate or suspend your access to the App at our sole discretion, without notice, for conduct that we believe violates these Terms.
 
-- Günni AI does not require mandatory account registration.
-- Data entered into the App remains local on your device unless you choose to sync to cloud storage.
-- You are responsible for maintaining the confidentiality of your device and any data stored on it.
+## 8. Limitation of Liability
+To the maximum extent permitted by law, AI Gym Buddy shall not be liable for any indirect, incidental, special, or consequential damages resulting from your use of the App.
 
-## 5. Intellectual Property
+## 9. Governing Law
+These Terms shall be governed by and construed in accordance with the laws of [INSERT YOUR JURISDICTION].
 
-- All content, code, designs, and materials in Günni AI are owned by or licensed to dermilan.
-- You may not copy, modify, distribute, translate, or reverse-engineer any part of the App.
-- Günni AI is licensed to you for personal, non-commercial use only.
-
-## 6. Health & Safety Disclaimer
-
-**IMPORTANT:** Günni AI is a fitness companion and workout tracker. It is NOT a substitute for medical advice, professional training, or professional medical treatment. 
-
-- Always consult a physician or certified fitness professional before beginning any exercise program.
-- Günni AI does not diagnose, treat, cure, or prevent any medical condition.
-- Users assume all risks associated with physical activity.
-
-## 7. Limitation of Liability
-
-To the maximum extent permitted by law:
-- Dermilan and Günni AI shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages.
-- This includes but is not limited to injuries, losses, or damages arising from use of the App or inability to use the App.
-- We are not liable for third-party services or links within the App.
-
-## 8. App "As Is"
-
-- Günni AI is provided "AS IS" without warranties, express or implied.
-- We do not warrant that the App will be error-free or uninterrupted.
-- We are not responsible for data loss or device malfunctions.
-
-## 9. Modification of the App
-
-- We reserve the right to modify, suspend, or discontinue Günni AI at any time without notice.
-- We may update the App features, design, or functionality.
-
-## 10. Termination
-
-- You may stop using Günni AI at any time by deleting the App.
-- We may terminate access to the App or your account if you violate these Terms.
-
-## 11. Third-Party Services
-
-- Günni AI may contain links to third-party apps or websites.
-- We are not responsible for the content, accuracy, or practices of third-party services.
-
-## 12. Changes to Terms
-
-- We may update these Terms of Service at any time.
-- Continued use of Günni AI after updates constitutes your acceptance of the new Terms.
-- Significant changes will be notified within the App.
-
-## 13. Governing Law
-
-- These Terms are governed by the laws of the jurisdiction where the developer resides.
-- Any disputes shall be resolved through mutual agreement or appropriate legal channels.
-
-## 14. Severability
-
-- If any provision of these Terms is found invalid, the remaining provisions continue in effect.
-
-## 15. Entire Agreement
-
-- These Terms constitute the entire agreement between you and Günni AI regarding your use of the App.
-
-## 16. Contact
-
-For questions about these Terms of Service, please contact us at:
+## 10. Contact Us
+If you have any questions about these Terms, please contact us at:
 **milan_dev@icloud.com**

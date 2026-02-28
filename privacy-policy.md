@@ -3,60 +3,71 @@ layout: default
 title: Privacy Policy
 ---
 
-# Privacy Policy
+# Privacy Policy for AI Gym Buddy
 
-**Last Updated:** February 23, 2026
+**Last Updated: February 24, 2026**
 
-## Introduction
+Günni AI ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information when you use our mobile application ("App").
 
-Günni AI ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy describes how we collect, use, disclose, and safeguard your information when you use our gym buddy app. By using Günni AI, you consent to the practices described in this policy.
+## 1. Information We Collect
 
-## Information We Collect
+### a. User-Provided Information
+When you use the App, you may provide certain personal information, such as:
+- **Profile Information:** Your name, join date, weekly fitness goals, and preferred weight units.
 
-- **Personal Information:** We do not collect personally identifiable information (such as your name, address, email, or phone number) unless you voluntarily provide it for app features.
-- **Usage Data:** We may collect information about your interactions with the app, such as exercise selections, workout sessions, and app usage patterns, solely to improve app performance.
-- **Device Information:** We may collect anonymized device information such as model, operating system, and app version for analytics and bug fixes.
-- **Health & Fitness Data:** Any fitness data you input (exercises, reps, weight, etc.) is stored locally on your device or in optional cloud storage only with your explicit consent.
+### b. Fitness and Activity Data
+We collect and store your workout history, including:
+- Exercises performed, weights lifted, sets, reps, and durations.
+- Personal records and progress statistics.
 
-## How We Use Information
+**Note:** All fitness and activity data are stored **locally** on your device using AsyncStorage. We do not have access to this data on our servers unless you explicitly share it through support channels.
 
-- To provide and operate Günni AI
-- To improve app features and user experience
-- To analyze usage data for performance optimization
-- To respond to your support inquiries
-- To send occasional app updates or feature notifications
+### c. Billing and Subscription Information
+We use **RevenueCat** to manage subscriptions and in-app purchases. RevenueCat may collect information necessary to process your transactions, such as your Apple ID and purchase history. Please refer to [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy) for more details.
 
-## Sharing Your Information
+### d. AI Interaction Data (Third-Party Disclosure)
+The App features an AI Buddy powered by the **Rork AI SDK**. To provide personalized chat responses and custom workout plans, we explicitly request your permission to share certain data with Rork AI.
 
-- We do not share, sell, or rent your information to third parties.
-- Data may be disclosed if required by law, court order, or to comply with legal processes.
-- Third-party analytics services may receive anonymized usage data.
+**What data is sent to Rork AI:**
+- Your Profile Information (Name, goal days per week, weight unit).
+- Your Workout History context (Total workouts, current streak, and recent exercises performed).
+- Any chat messages you explicitly send to the AI Buddy.
 
-## Security
+**Who the data is sent to:**
+- This data is transmitted securely to our third-party AI provider, **Rork AI** (https://rork.com).
 
-We use reasonable administrative, technical, and physical safeguards to protect your information. However, no method of transmission over the internet or electronic storage is completely secure.
+**Data Protection:**
+- We confirm that Rork AI provides the same or equal protection of user data as stated in this policy. This data is used solely to generate the AI responses and features within the App and is not sold or used for marketing purposes by Rork AI. Please refer to [Rork AI's Privacy Policy](https://rork.com/privacy) for their specific retention details.
 
-## Children's Privacy
+## 2. Permissions
+The App may request the following permissions:
+- **Haptics:** To provide tactile feedback during use.
 
-Günni AI is not intended for children under 13. We do not knowingly collect data from children under 13. If you believe we have collected such data, please contact us immediately to remove it.
+**Note:** The App does *not* currently collect your precise location or access your photo library.
 
-## Data Retention
+## 3. How We Use Information
+We use the collected information to:
+- Provide and maintain the App's features.
+- Personalize your workout experience and AI Buddy interactions.
+- Manage your Pro subscriptions and restore purchases.
+- Improve the App based on user feedback.
 
-We retain your data for as long as your account is active. You may request deletion of your data at any time.
+## 4. Data Retention
+Since most data is stored locally on your device, it remains there until you delete the App or use the "Clear Workout History" feature within the App settings. AI interaction history may be retained by Rork AI as per their data retention policies.
 
-## Your Rights
+## 5. Security
+We take reasonable measures to protect your information. However, please be aware that no security measure is perfect, and you are responsible for maintaining the security of your device.
 
-You have the right to:
-- Access your personal data
-- Request correction of inaccurate data
-- Request deletion of your data
-- Opt-out of analytics and tracking
+## 6. Children's Privacy
+The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13.
 
-## Changes to This Privacy Policy
+## 7. Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy.
 
-We may update our Privacy Policy from time to time. Updates will be posted within Günni AI and on our website. Please review this policy periodically.
-
-## Contact
-
-If you have questions about this Privacy Policy, please contact us at:
+## 8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
 **milan_dev@icloud.com**
+
+
+
+
