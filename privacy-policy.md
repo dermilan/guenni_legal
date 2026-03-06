@@ -3,7 +3,7 @@ layout: default
 title: Privacy Policy
 ---
 
-# Privacy Policy for AI Gym Buddy
+# Privacy Policy
 
 **Last Updated: February 24, 2026**
 
