@@ -47,7 +47,7 @@ We reserve the right to terminate or suspend your access to the App at our sole 
 To the maximum extent permitted by law, AI Gym Buddy shall not be liable for any indirect, incidental, special, or consequential damages resulting from your use of the App.
 
 ## 9. Governing Law
-These Terms shall be governed by and construed in accordance with the laws of [INSERT YOUR JURISDICTION].
+These Terms shall be governed by and construed in accordance with the laws of Germany, without regard to its conflict of law provisions.
 
 ## 10. Contact Us
 If you have any questions about these Terms, please contact us at:
