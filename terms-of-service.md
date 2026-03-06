@@ -3,7 +3,7 @@ layout: default
 title: Terms of Service
 ---
 
-# Terms of Service for Günni AI
+# Terms of Service
 
 **Last Updated: February 24, 2026**
 
